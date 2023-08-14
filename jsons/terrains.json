@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Mars tile",
+    "type": "Land",
+    "MovementCost": 2,
+    "RGB": [255, 25, 64]
+  }
+]
