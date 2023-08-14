@@ -2,6 +2,6 @@
   {
     "name": "Mars tile",
     "type": "Land",
-    "MovementCost": 2,
+    "movementCost": 2,
   }
 ]
